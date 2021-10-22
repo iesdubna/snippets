@@ -21,6 +21,4 @@ z = B(5, 6)
 print(x.sum())
 print(y.sum())
 print(z.sum())
-
 print(z.diff())
-
